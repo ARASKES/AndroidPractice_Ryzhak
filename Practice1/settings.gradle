@@ -1,0 +1,2 @@
+include ':LayoutType'
+rootProject.name = "Practice1"
